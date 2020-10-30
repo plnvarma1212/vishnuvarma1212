@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18332" started-at="2020-10-28T13:25:54 IST" finished-at="2020-10-28T13:26:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18332" started-at="2020-10-28T13:25:54 IST" finished-at="2020-10-28T13:26:13 IST">
+      <class name="actions.MouseOperations">
+        <test-method status="PASS" signature="setup()[pri:0, instance:actions.MouseOperations@1d29cf23]" name="setup" is-config="true" duration-ms="7235" started-at="2020-10-28T13:25:54 IST" finished-at="2020-10-28T13:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="MoveToelement()[pri:0, instance:actions.MouseOperations@1d29cf23]" name="MoveToelement" duration-ms="10996" started-at="2020-10-28T13:26:02 IST" finished-at="2020-10-28T13:26:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoveToelement -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:actions.MouseOperations@1d29cf23]" name="tearDown" is-config="true" duration-ms="2" started-at="2020-10-28T13:26:13 IST" finished-at="2020-10-28T13:26:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- actions.MouseOperations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
