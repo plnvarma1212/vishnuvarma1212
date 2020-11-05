@@ -1,0 +1,8 @@
+ ***********************   TC_002 Started  *************************
+Initializing the Properties files...
+Opening the browser : chrome
+Navigating the Url : https://www.amazon.in
+Selected the item Books By using the locator :- searchDropdownBox
+Entered the Harry Potter By using locator :- twotabsearchtextbox
+Clicked on SearchButton By using locator :- //span[@id='nav-search-submit-text']//input[@class='nav-input']
+ ***********************   TC_002 Ended  *************************
